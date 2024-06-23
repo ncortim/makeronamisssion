@@ -1,0 +1,3 @@
+[submodule "lightbi-hugo"]
+	path = lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo

@@ -1,0 +1,4 @@
+baseURL = 'https://makeronamission.org/'
+languageCode = 'en-us'
+title = 'MAOM - Maker on a Mission'
+theme = 'lightbi-hugo'
